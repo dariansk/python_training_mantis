@@ -1,15 +1,16 @@
 {
   "web": {
-    "baseUrl": "http://localhost:8080/addressbook/",
+    "baseUrl": "http://localhost:8080/mantisbt",
     "username": "admin",
     "password": "secret"
   },
-  "db": {
+  "webadmin": {
+    "username": "administrator",
+    "password": "root"
+  },
+  "ftp": {
     "host": "localhost",
-    "name": "addressbook",
-    "user": "root",
-    "password": ""
+    "username": "mantis",
+    "password": "mantis"
   }
-
-
 }
