@@ -1,6 +1,6 @@
 {
   "web": {
-    "baseUrl": "http://localhost:8080/mantisbt",
+    "baseUrl": "http://localhost/mantisbt",
     "username": "admin",
     "password": "secret"
   },
